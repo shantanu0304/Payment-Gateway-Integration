@@ -1,6 +1,6 @@
-### The-Sparks-Foundation-Internship
-This repository contains the code for **#Payment Gateway
-Integration#** task completion. 
+# The-Sparks-Foundation-Internship
+This repository contains the code for **Payment Gateway
+Integration** task completion. 
 Objective 
 Create a simple website where payment gateway is integrated.
 ◇ There will be a simple donate button on homepage. On clicking
