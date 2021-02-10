@@ -2,7 +2,7 @@
 This repository contains the code for **Payment Gateway
 Integration** task completion. 
 <br>
-##Objective 
+## Objective 
 - Create a simple website where payment gateway is integrated.<br>
 - There will be a simple donate button on homepage. On clicking
 the donate button, the user will land on the payment page where
